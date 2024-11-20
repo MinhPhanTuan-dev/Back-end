@@ -14,6 +14,7 @@ namespace MISA.AMISDemo.Api.Controllers
         }
 //---------------------------------------------------------------------------------------------
         [HttpGet]
+        ///comment code
         public IActionResult GetAsync()
         {
             var bank = _bankServices.GetAsync();
