@@ -1,0 +1,182 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Infrastructure\\MISA.AMISDemo.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj",
+        "projectName": "MISA.AMISDemo.Core",
+        "projectPath": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj",
+        "packagesPath": "C:\\Users\\ptminh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ptminh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.28.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.7, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "SQLitePCLRaw.core": {
+              "target": "Package",
+              "version": "[2.1.9, )"
+            },
+            "Smusdi.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.1.7, )"
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Infrastructure\\MISA.AMISDemo.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Infrastructure\\MISA.AMISDemo.Infrastructure.csproj",
+        "projectName": "MISA.AMISDemo.Infrastructure",
+        "projectPath": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Infrastructure\\MISA.AMISDemo.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ptminh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ptminh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj": {
+                "projectPath": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

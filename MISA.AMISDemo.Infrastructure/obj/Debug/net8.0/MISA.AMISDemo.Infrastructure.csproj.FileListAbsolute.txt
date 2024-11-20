@@ -1,0 +1,15 @@
+C:\Users\ptminh\Downloads\API\MISA.AMISDemo.Api\MISA.AMISDemo.Infrastructure\obj\Debug\net8.0\MISA.AMISDemo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ptminh\Downloads\API\MISA.AMISDemo.Api\MISA.AMISDemo.Infrastructure\obj\Debug\net8.0\MISA.AMISDemo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptminh\Downloads\API\MISA.AMISDemo.Api\MISA.AMISDemo.Infrastructure\obj\Debug\net8.0\MISA.AMISDemo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ptminh\Downloads\API\MISA.AMISDemo.Api\MISA.AMISDemo.Infrastructure\obj\Debug\net8.0\MISA.AMISDemo.Infrastructure.AssemblyInfo.cs
+C:\Users\ptminh\Downloads\API\MISA.AMISDemo.Api\MISA.AMISDemo.Infrastructure\obj\Debug\net8.0\MISA.AMISDemo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ptminh\Downloads\API\MISA.AMISDemo.Api\MISA.AMISDemo.Infrastructure\bin\Debug\net8.0\MISA.AMISDemo.Infrastructure.deps.json
+C:\Users\ptminh\Downloads\API\MISA.AMISDemo.Api\MISA.AMISDemo.Infrastructure\bin\Debug\net8.0\MISA.AMISDemo.Infrastructure.dll
+C:\Users\ptminh\Downloads\API\MISA.AMISDemo.Api\MISA.AMISDemo.Infrastructure\bin\Debug\net8.0\MISA.AMISDemo.Infrastructure.pdb
+C:\Users\ptminh\Downloads\API\MISA.AMISDemo.Api\MISA.AMISDemo.Infrastructure\bin\Debug\net8.0\MISA.AMISDemo.Core.dll
+C:\Users\ptminh\Downloads\API\MISA.AMISDemo.Api\MISA.AMISDemo.Infrastructure\bin\Debug\net8.0\MISA.AMISDemo.Core.pdb
+C:\Users\ptminh\Downloads\API\MISA.AMISDemo.Api\MISA.AMISDemo.Infrastructure\obj\Debug\net8.0\MISA.AMI.59E4B3E1.Up2Date
+C:\Users\ptminh\Downloads\API\MISA.AMISDemo.Api\MISA.AMISDemo.Infrastructure\obj\Debug\net8.0\MISA.AMISDemo.Infrastructure.dll
+C:\Users\ptminh\Downloads\API\MISA.AMISDemo.Api\MISA.AMISDemo.Infrastructure\obj\Debug\net8.0\refint\MISA.AMISDemo.Infrastructure.dll
+C:\Users\ptminh\Downloads\API\MISA.AMISDemo.Api\MISA.AMISDemo.Infrastructure\obj\Debug\net8.0\MISA.AMISDemo.Infrastructure.pdb
+C:\Users\ptminh\Downloads\API\MISA.AMISDemo.Api\MISA.AMISDemo.Infrastructure\obj\Debug\net8.0\ref\MISA.AMISDemo.Infrastructure.dll
