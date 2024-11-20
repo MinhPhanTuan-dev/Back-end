@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UsRZMh4F3sY=",
+  "dgSpecHash": "Y8/qEgvNPMc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Infrastructure\\MISA.AMISDemo.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Infrastructure\\MISA.AMISDemo.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ptminh\\.nuget\\packages\\asp.versioning.abstractions\\8.1.0\\asp.versioning.abstractions.8.1.0.nupkg.sha512",
     "C:\\Users\\ptminh\\.nuget\\packages\\asp.versioning.http\\8.1.0\\asp.versioning.http.8.1.0.nupkg.sha512",

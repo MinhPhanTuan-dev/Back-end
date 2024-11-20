@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MISA.AMISDemo.Infrastructure
-build_property.ProjectDir = C:\Users\ptminh\Downloads\API\MISA.AMISDemo.Api\MISA.AMISDemo.Infrastructure\
+build_property.ProjectDir = C:\Users\ptminh\Documents\GitHub\misacukcuk\BE\Back-end\MISA.AMISDemo.Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

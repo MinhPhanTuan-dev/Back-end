@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Api\\MISA.AMISDemo.Api.csproj": {}
+    "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Api\\MISA.AMISDemo.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Api\\MISA.AMISDemo.Api.csproj": {
+    "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Api\\MISA.AMISDemo.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Api\\MISA.AMISDemo.Api.csproj",
+        "projectUniqueName": "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Api\\MISA.AMISDemo.Api.csproj",
         "projectName": "MISA.AMISDemo.Api",
-        "projectPath": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Api\\MISA.AMISDemo.Api.csproj",
+        "projectPath": "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Api\\MISA.AMISDemo.Api.csproj",
         "packagesPath": "C:\\Users\\ptminh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Api\\obj\\",
+        "outputPath": "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ptminh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj": {
-                "projectPath": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj"
+              "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj": {
+                "projectPath": "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj"
               },
-              "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Infrastructure\\MISA.AMISDemo.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Infrastructure\\MISA.AMISDemo.Infrastructure.csproj"
+              "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Infrastructure\\MISA.AMISDemo.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Infrastructure\\MISA.AMISDemo.Infrastructure.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj": {
+    "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj",
         "projectName": "MISA.AMISDemo.Core",
-        "projectPath": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj",
+        "projectPath": "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj",
         "packagesPath": "C:\\Users\\ptminh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Core\\obj\\",
+        "outputPath": "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ptminh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -180,14 +180,14 @@
         }
       }
     },
-    "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Infrastructure\\MISA.AMISDemo.Infrastructure.csproj": {
+    "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Infrastructure\\MISA.AMISDemo.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Infrastructure\\MISA.AMISDemo.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Infrastructure\\MISA.AMISDemo.Infrastructure.csproj",
         "projectName": "MISA.AMISDemo.Infrastructure",
-        "projectPath": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Infrastructure\\MISA.AMISDemo.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Infrastructure\\MISA.AMISDemo.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ptminh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ptminh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -205,8 +205,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj": {
-                "projectPath": "C:\\Users\\ptminh\\Downloads\\API\\MISA.AMISDemo.Api\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj"
+              "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj": {
+                "projectPath": "C:\\Users\\ptminh\\Documents\\GitHub\\misacukcuk\\BE\\Back-end\\MISA.AMISDemo.Core\\MISA.AMISDemo.Core.csproj"
               }
             }
           }
